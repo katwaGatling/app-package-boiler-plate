@@ -5,10 +5,10 @@
 
   <groupId>app.gatling</groupId>
   <artifactId>app-gatling</artifactId>
-  <version>3.10.3</version>
+  <version>3.10.4</version>
 
   <properties>
-    <maven.compiler.release>17</maven.compiler.release>
+    <maven.compiler.release>21</maven.compiler.release>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <gatling.version>${project.version}</gatling.version>
     <gatling-maven-plugin.version>4.8.2</gatling-maven-plugin.version>
